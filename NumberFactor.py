@@ -4,6 +4,7 @@
 # Number Factor Problem  in Python
 
 def numberFactor(n):
+    # Added a comment
     if n in (0,1,2):
         return 1
     elif n == 3:
